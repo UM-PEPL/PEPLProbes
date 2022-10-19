@@ -5,3 +5,4 @@ src/PEPLProbes.egg-info/
 src/PEPLProbes/utils/__pycache__/
 src/PEPLProbes/__pycache__/
 __pycache__
+.vscode
